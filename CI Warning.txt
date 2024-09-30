@@ -1,0 +1,5 @@
+Dear ChaosStation codediver:
+
+This project's CI suite through GitHub actions is horrifically out of date and broken. Until it is updated by someone more capable than me, PLEASE MAKE SURE YOU BUILD LOCALLY
+
+-Arrhythmia_V
