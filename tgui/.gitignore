@@ -13,9 +13,6 @@ package-lock.json
 !/.yarn/lock.yml
 
 ## Build artifacts
-/public/.tmp/**/*
-/public/**/*
-!/public/*.html
 /coverage
 
 ## Previously ignored locations that are kept to avoid confusing git
